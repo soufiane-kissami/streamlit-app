@@ -33,7 +33,7 @@ confidence = float(st.sidebar.slider(
 
 # Selecting Detection Or Segmentation
 #model_type == 'Detection'
-model_path = 'weights/best.pt'
+model_path = 'best.pt'
 
 
 # Load Pre-trained ML Model
